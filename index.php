@@ -3,4 +3,4 @@
 <div class="Content">
 </div>
 
-<?php require_once("Includes/Footer.php") ?>
+<?php require_once("Includes/Footer.php"); ?>
